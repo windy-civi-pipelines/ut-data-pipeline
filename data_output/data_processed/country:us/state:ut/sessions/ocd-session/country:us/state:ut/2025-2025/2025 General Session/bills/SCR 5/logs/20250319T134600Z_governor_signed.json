@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Signed",
+    "date": "2025-03-19T13:46:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SCR 5"
+}

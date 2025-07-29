@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ to Lieutenant Governor",
+    "date": "2025-02-18T20:31:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 3"
+}

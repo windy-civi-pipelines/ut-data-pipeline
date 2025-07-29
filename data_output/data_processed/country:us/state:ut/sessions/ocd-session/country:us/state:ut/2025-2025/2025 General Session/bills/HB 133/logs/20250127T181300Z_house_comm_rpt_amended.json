@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ comm rpt/ amended",
+    "date": "2025-01-27T18:13:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 133"
+}

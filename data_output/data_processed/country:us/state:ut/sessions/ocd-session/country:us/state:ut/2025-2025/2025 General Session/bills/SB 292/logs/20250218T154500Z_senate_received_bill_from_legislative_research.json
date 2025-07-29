@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ received bill from Legislative Research",
+    "date": "2025-02-18T15:45:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 292"
+}

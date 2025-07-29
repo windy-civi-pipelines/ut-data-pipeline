@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ substitute adoption failed",
+    "date": "2025-03-04T18:27:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 454"
+}

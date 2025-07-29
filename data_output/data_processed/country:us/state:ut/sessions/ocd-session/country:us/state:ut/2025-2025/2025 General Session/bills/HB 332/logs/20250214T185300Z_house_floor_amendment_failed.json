@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "House/ floor amendment failed",
+    "date": "2025-02-14T18:53:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 332"
+}

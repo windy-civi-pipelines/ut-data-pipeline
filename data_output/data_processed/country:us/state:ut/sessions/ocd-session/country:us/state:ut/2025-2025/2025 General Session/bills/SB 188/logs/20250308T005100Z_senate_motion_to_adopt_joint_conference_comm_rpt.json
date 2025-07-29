@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Motion to Adopt Joint Conference Comm Rpt",
+    "date": "2025-03-08T00:51:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 188"
+}

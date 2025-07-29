@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ received fiscal note from Fiscal Analyst",
+    "date": "2025-02-27T16:22:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 324"
+}

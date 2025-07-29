@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ received bill from Legislative Research",
+    "date": "2025-02-13T16:14:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 492"
+}

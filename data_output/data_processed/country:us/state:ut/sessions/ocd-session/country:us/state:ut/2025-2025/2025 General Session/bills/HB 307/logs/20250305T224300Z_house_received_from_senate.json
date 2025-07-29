@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ received from Senate",
+    "date": "2025-03-05T22:43:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 307"
+}

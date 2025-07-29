@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ comm rpt/ amended",
+    "date": "2025-02-21T17:23:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 302"
+}

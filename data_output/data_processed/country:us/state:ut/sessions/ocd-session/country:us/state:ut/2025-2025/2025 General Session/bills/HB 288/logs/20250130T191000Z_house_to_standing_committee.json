@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ to standing committee",
+    "date": "2025-01-30T19:10:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 288"
+}

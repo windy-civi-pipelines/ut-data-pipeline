@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ committee report favorable",
+    "date": "2025-03-03T17:29:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 207"
+}

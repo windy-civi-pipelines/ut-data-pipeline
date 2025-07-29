@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Conference Committee - Final Passage",
+    "date": "2025-03-08T00:30:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 40"
+}

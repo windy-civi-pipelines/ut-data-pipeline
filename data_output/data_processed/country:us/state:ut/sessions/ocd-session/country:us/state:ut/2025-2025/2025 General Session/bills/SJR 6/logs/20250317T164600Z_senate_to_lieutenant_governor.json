@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ to Lieutenant Governor",
+    "date": "2025-03-17T16:46:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SJR 6"
+}

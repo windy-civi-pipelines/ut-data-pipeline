@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ concurs with Senate amendment",
+    "date": "2025-03-07T00:19:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 128"
+}

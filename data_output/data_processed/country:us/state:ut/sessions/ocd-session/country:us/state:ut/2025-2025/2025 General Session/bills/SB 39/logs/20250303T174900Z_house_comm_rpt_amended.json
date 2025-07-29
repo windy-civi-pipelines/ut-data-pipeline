@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ comm rpt/ amended",
+    "date": "2025-03-03T17:49:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 39"
+}

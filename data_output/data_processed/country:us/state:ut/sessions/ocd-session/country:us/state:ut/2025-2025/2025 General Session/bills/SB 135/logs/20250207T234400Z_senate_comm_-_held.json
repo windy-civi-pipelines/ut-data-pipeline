@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Comm - Held",
+    "date": "2025-02-07T23:44:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 135"
+}

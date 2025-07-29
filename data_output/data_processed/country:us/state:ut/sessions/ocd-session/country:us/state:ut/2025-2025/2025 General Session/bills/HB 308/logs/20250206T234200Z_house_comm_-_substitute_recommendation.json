@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House Comm - Substitute Recommendation",
+    "date": "2025-02-06T23:42:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 308"
+}

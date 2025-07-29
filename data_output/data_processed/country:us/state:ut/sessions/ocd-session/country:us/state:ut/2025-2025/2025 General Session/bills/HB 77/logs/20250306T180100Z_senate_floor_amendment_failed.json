@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "Senate/ floor amendment failed",
+    "date": "2025-03-06T18:01:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 77"
+}

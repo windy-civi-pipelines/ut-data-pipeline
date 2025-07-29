@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ failed",
+    "date": "2025-03-05T03:34:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 106"
+}

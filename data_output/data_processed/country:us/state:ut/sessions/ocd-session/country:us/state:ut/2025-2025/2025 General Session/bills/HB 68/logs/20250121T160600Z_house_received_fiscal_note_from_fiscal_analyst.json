@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ received fiscal note from Fiscal Analyst",
+    "date": "2025-01-21T16:06:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 68"
+}

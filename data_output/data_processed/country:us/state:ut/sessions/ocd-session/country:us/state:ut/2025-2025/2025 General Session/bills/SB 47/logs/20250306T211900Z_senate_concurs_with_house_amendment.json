@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ concurs with House amendment",
+    "date": "2025-03-06T21:19:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 47"
+}

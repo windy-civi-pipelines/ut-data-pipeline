@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Signed",
+    "date": "2025-02-14T21:52:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-signature"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 267"
+}

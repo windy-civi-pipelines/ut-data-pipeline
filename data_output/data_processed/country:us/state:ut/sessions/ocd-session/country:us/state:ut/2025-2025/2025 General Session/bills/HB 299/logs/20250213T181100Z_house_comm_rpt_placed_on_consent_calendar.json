@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House/ comm rpt/ placed on Consent Calendar",
+    "date": "2025-02-13T18:11:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 299"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Comm - Motion to Recommend Failed",
+    "date": "2025-02-25T16:18:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 26"
+}

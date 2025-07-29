@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Bill Substituted by Conference Committee",
+    "date": "2025-03-05T01:01:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 307"
+}

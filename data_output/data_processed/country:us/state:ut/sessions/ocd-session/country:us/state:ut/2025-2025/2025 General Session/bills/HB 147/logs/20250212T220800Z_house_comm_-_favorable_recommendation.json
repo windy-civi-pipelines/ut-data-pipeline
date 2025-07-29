@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House Comm - Favorable Recommendation",
+    "date": "2025-02-12T22:08:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 147"
+}

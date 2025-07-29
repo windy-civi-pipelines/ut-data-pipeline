@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Became Law w/o Governor Signature",
+    "date": "2025-03-27T15:59:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 69"
+}

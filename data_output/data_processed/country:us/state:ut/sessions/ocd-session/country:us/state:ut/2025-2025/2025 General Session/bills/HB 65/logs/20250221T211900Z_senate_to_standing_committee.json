@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ to standing committee",
+    "date": "2025-02-21T21:19:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 65"
+}

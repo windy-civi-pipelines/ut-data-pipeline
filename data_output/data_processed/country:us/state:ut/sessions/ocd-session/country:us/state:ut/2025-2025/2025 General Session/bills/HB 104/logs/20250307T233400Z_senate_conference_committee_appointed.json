@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Conference Committee Appointed",
+    "date": "2025-03-07T23:34:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "referral-committee"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 104"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House/ motion to reconsider",
+    "date": "2025-03-08T00:39:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 234"
+}

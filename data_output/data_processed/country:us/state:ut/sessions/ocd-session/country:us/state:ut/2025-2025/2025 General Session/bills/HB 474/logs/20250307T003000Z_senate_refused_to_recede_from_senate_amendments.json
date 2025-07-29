@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate/ refused to recede from Senate amendments",
+    "date": "2025-03-07T00:30:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 474"
+}

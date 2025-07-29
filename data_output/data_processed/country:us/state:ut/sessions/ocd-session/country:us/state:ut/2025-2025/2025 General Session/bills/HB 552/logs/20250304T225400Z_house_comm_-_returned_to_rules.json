@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House Comm - Returned to Rules",
+    "date": "2025-03-04T22:54:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 552"
+}

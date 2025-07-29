@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ received enrolled bill from Printing",
+    "date": "2025-02-11T19:55:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 5"
+}

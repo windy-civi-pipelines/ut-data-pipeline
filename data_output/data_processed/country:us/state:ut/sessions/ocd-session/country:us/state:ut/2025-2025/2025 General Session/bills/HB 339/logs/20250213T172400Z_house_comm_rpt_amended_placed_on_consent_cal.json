@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ comm rpt/ amended/ placed on Consent Cal",
+    "date": "2025-02-13T17:24:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 339"
+}

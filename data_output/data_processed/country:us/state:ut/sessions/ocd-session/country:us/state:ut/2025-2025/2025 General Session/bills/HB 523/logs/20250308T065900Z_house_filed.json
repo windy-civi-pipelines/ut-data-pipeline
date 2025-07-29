@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ filed",
+    "date": "2025-03-08T06:59:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "filing"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 523"
+}

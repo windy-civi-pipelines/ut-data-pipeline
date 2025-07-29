@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ comm rpt/ sent to Rules/ amended",
+    "date": "2025-03-05T17:03:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 305"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate/ to House",
+    "date": "2025-03-08T06:10:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HCR 14"
+}

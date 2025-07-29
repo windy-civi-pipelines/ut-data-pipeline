@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate/ 3rd reading",
+    "date": "2025-02-27T18:13:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 138"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ passed 3rd reading",
+    "date": "2025-03-08T05:28:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 102"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ substitute adoption failed",
+    "date": "2025-03-05T03:03:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 328"
+}

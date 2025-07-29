@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate/ Rules to 2nd Reading Calendar",
+    "date": "2025-03-07T00:54:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 104"
+}

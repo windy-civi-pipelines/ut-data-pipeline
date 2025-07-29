@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ 2nd Reading Calendar to Rules",
+    "date": "2025-03-07T23:42:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "reading-2"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 542"
+}

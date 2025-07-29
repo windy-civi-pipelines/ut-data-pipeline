@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Conference Committee Report",
+    "date": "2025-03-07T22:24:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 40"
+}

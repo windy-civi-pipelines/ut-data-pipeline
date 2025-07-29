@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate Comm - Favorable Recommendation",
+    "date": "2025-03-05T01:05:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 15"
+}
