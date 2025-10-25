@@ -1,0 +1,427 @@
+{
+  "legislative_session": "2025S1",
+  "identifier": "HJR 101",
+  "title": "Joint Resolution on Federal Funds",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "joint resolution"
+  ],
+  "subject": [
+    "Health and Human Services"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Bill Numbered but not Distributed",
+      "date": "2025-10-03T19:51:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Numbered Bill Publicly Distributed",
+      "date": "2025-10-03T19:51:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ received fiscal note from Fiscal Analyst",
+      "date": "2025-10-06T14:18:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ received bill from Legislative Research",
+      "date": "2025-10-06T14:18:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ 1st reading (Introduced)",
+      "date": "2025-10-06T16:12:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ Rules to 3rd Reading Calendar",
+      "date": "2025-10-06T16:14:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ 2nd reading",
+      "date": "2025-10-06T16:14:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ 3rd reading",
+      "date": "2025-10-06T16:34:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ floor amendment",
+      "date": "2025-10-06T16:49:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ passed 3rd reading",
+      "date": "2025-10-06T16:58:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ to Senate",
+      "date": "2025-10-06T16:58:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ received from House",
+      "date": "2025-10-06T17:24:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ 1st reading (Introduced)",
+      "date": "2025-10-06T17:24:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ 2nd & 3rd readings/ suspension",
+      "date": "2025-10-06T17:27:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ passed 2nd & 3rd readings/ suspension",
+      "date": "2025-10-06T17:36:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ signed by President/ returned to House",
+      "date": "2025-10-06T17:36:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ to House",
+      "date": "2025-10-06T17:36:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ received from Senate",
+      "date": "2025-10-06T17:54:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ received from Senate",
+      "date": "2025-10-06T18:46:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ signed by Speaker/ sent for enrolling",
+      "date": "2025-10-06T18:46:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Bill Received from House for Enrolling",
+      "date": "2025-10-06T20:04:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Draft of Enrolled Bill Prepared",
+      "date": "2025-10-06T20:04:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Returned to House or Senate",
+      "date": "2025-10-06T22:18:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ enrolled bill to Printing",
+      "date": "2025-10-06T22:18:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ received enrolled bill from Printing",
+      "date": "2025-10-06T22:33:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ to Lieutenant Governor",
+      "date": "2025-10-06T22:33:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Peterson, Val L.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Peterson, Val L.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stevenson, Jerry W",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Stevenson, Jerry W\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/enrolled/HJR101.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/enrolled/HJR101.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/introduced/HJR101.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/introduced/HJR101.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amended 10/6/2025 11:10:111",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/amended/AV_HJR101_2025-10-06_11-06-48.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/amended/AV_HJR101_2025-10-06_11-06-48.xml",
+          "media_type": "text/xml"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amended Excerpts 10/6/2025 11:10:111",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/amended/AP_HJR101_2025-10-06_11-06-48.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Amendment 1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/amended/HJR101.Hamd.1.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Transmittal Letter 1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/transmit/HJ101H10.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Transmittal Letter 1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/transmit/HJ101S10.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://le.utah.gov/~2025S1/bills/static/HJR101.html",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ut/government",
+    "name": "Utah",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ut"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:11Z"
+  }
+}

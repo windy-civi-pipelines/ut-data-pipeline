@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ received fiscal note from Fiscal Analyst",
+    "date": "2025-10-06T14:18:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 1005"
+}

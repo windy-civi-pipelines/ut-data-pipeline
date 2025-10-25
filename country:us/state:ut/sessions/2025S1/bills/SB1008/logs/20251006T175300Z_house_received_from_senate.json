@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ received from Senate",
+    "date": "2025-10-06T17:53:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1008"
+}

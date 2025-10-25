@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House/ 2nd reading",
+    "date": "2025-10-06T18:49:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1001"
+}

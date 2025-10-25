@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ to Governor",
+    "date": "2025-10-09T17:29:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "executive-receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1008"
+}

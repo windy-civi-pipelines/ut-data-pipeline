@@ -1,0 +1,5623 @@
+{
+  "legislative_session": "2025S1",
+  "identifier": "SB 1007",
+  "title": "Title 17 Recodification County Programs and Related Provisions",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Political Subdivisions (Local Issues)"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Bill Numbered but not Distributed",
+      "date": "2025-10-03T20:44:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Numbered Bill Publicly Distributed",
+      "date": "2025-10-03T20:44:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ received bill from Legislative Printing",
+      "date": "2025-10-06T13:22:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ 1st reading (Introduced)",
+      "date": "2025-10-06T16:08:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ placed on 2nd Reading Calendar",
+      "date": "2025-10-06T16:08:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ 2nd & 3rd readings/ suspension",
+      "date": "2025-10-06T17:17:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ substituted",
+      "date": "2025-10-06T17:19:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ passed 2nd & 3rd readings/ suspension",
+      "date": "2025-10-06T17:20:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ to House",
+      "date": "2025-10-06T17:20:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ received from Senate",
+      "date": "2025-10-06T17:53:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ 1st reading (Introduced)",
+      "date": "2025-10-06T18:48:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ Rules to 3rd Reading Calendar",
+      "date": "2025-10-06T18:49:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ 2nd reading",
+      "date": "2025-10-06T18:49:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ 3rd reading",
+      "date": "2025-10-06T19:37:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ passed 3rd reading",
+      "date": "2025-10-06T19:39:00+00:00",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ signed by Speaker/ returned to Senate",
+      "date": "2025-10-06T19:39:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "House/ to Senate",
+      "date": "2025-10-06T19:39:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ received from House",
+      "date": "2025-10-06T20:03:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ signed by President/ sent for enrolling",
+      "date": "2025-10-06T20:03:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Bill Received from Senate for Enrolling",
+      "date": "2025-10-07T16:12:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Draft of Enrolled Bill Prepared",
+      "date": "2025-10-07T16:12:00+00:00",
+      "organization_id": "~{\"classification\": \"legislature\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Enrolled Bill Returned to House or Senate",
+      "date": "2025-10-08T18:27:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "enrolled"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ enrolled bill to Printing",
+      "date": "2025-10-08T20:21:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ received enrolled bill from Printing",
+      "date": "2025-10-09T17:29:00+00:00",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Senate/ to Governor",
+      "date": "2025-10-09T17:29:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-receipt"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    },
+    {
+      "description": "Governor Signed",
+      "date": "2025-10-14T22:41:00+00:00",
+      "organization_id": "~{\"classification\": \"executive\"}",
+      "classification": [
+        "executive-signature"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2025-10-25T03:09:11Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ipson, Don L.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"upper\", \"name\": \"Ipson, Don L.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dunnigan, James A.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dunnigan, James A.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/introduced/SB1007.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/introduced/SB1007.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Enrolled",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/enrolled/SB1007.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/enrolled/SB1007.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Comparison to Original Bill",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/introduced/CP SB1007 To SB1007S01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Substitute #1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/introduced/SB1007S01.xml",
+          "media_type": "text/xml"
+        },
+        {
+          "url": "https://le.utah.gov/Session/2025S1/bills/introduced/SB1007S01.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "House Transmittal Letter 1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/transmit/SB007H10.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Senate Transmittal Letter 1",
+      "links": [
+        {
+          "url": "https://le.utah.gov/Session/2025S1/transmit/SB007S10.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [
+    {
+      "publication": "Utah Code",
+      "citation": "17-16a-3.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1001",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-14",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-2.6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-11",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-20",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-8",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-206",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-207",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-301",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-307",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-403",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-404",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-16",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-4.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-38-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-601",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-307",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-11.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-11.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-108",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-325",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-11",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-15-33",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-15-26",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-8",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-14",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-23",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-21",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-14",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-16",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-17",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-18",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-19",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-22",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-103",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-104",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-204",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-302",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-304",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-308",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-310",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-311",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-313",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-312",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-402",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-314",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-11.7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-502",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-2.4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-8",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-11",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-313",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-318",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-204",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-301",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-302",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-304",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-308",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-310",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-323",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-329.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-331",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-333",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-339",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-310",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-312",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-311",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-341",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-338",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-327",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-15-29",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-316",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-326",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-320",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-335",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-5.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-307",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-308",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-330",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-322",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-34-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-34-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-34-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25a-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25a-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25a-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25a-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-5.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-8",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-8",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-38-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-38-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-38-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-701",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-702",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-703",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-704",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-705",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-706",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-707",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-708",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-801",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-804",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-103",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-104",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-204",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-206",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-207",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-208",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-209",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-210",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-211",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-212",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-213",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-301",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-302",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-304",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-403",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-404",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-405",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-406",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-407",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-901",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-502",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-504",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-505",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-506",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-506.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-528",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-505.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-508.1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-509.7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-511",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-512",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-514",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-515",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-520",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-521",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-525",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-510.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-527",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-529",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-530",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-532",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-533",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-534",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-535",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-539",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-540",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-601",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-602",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-603",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-604",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-604.1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-604.2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-604.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-605",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-606",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-607",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-608",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-609",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-609.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-610",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-611",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1004",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-308",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-508",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-509",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-509.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-522",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-523",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-524",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-536",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-537",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-507",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-802",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-803",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-510",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-408",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-531",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-513",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-526",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-403.1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-403.2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1204",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-301",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-302",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-304",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-307",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-402",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-402.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-403",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-405",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-404",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-406",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-502",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-602",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1103",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1104",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1002",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1003",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1005",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-402",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-106",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-55-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-55-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-36-41",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-56-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-56-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-56-202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-22-34",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-18a-506",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-15-23",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-519",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-16-22",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63I-1-217",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63I-2-217",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-16a-3.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1001",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-14",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-2.6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-11",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-15",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-20",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-8",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-206",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-207",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-301",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-307",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-403",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-404",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-16",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-4.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-38-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-601",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-307",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-11.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-11.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-108",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-16-7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-325",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-11",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-15-33",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-15-26",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-8",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-14",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-23",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-21",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-14",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-16",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-13",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-17",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-18",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-19",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30-22",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-103",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-104",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-204",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-302",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-304",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-308",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-310",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-311",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-313",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-312",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-402",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-314",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-33-11.7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-30a-502",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-2.4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-8",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-10",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-11",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-28-12",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-313",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-318",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-204",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-301",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-302",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-304",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-308",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-43-310",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-323",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-329.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-331",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-333",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-339",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-310",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-312",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-311",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-341",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-338",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-327",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-15-29",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-316",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-326",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-320",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-335",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-5.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-307",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-308",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-330",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-322",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-34-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-34-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-34-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25a-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25a-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25a-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25a-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-25-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-5.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-8",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-31-9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-4",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-8",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-37-9",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-38-1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-38-2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-38-3",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-701",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-702",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-703",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-704",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-705",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-706",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-707",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-708",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-801",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-804",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-103",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-104",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-204",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-206",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-207",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-208",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-209",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-210",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-211",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-212",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-213",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-301",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-302",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-304",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-403",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-404",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-405",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-406",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-407",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-901",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-502",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-504",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-505",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-506",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-506.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-528",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-505.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-508.1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-509.7",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-511",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-512",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-514",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-515",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-520",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-521",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-525",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-510.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-527",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-529",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-530",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-532",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-533",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-534",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-535",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-539",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-540",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-601",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-602",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-603",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-604",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-604.1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-604.2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-604.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-605",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-606",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-607",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-608",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-609",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-609.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-610",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-611",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1004",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-308",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-309",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-508",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-509",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-509.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-522",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-523",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-524",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-536",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-537",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-507",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-802",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-803",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-510",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-8-6",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-408",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-531",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-513",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-526",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-403.1",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-403.2",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1203",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1204",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1205",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-301",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-302",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-303",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-304",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-305",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-306",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-307",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-401",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-402",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-402.5",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-403",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-405",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-404",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-406",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-501",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-502",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-503",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-41-602",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1102",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1103",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1104",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1002",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1003",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-1005",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-402",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-50-106",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-55-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-55-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-36-41",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-56-101",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-56-201",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-56-202",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-22-34",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-18a-506",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-15-23",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-27a-519",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "17-16-22",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63I-1-217",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    },
+    {
+      "publication": "Utah Code",
+      "citation": "63I-2-217",
+      "citation_type": "proposed",
+      "effective": null,
+      "expires": null,
+      "url": null
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://le.utah.gov/~2025S1/bills/static/SB1007.html",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:ut/government",
+    "name": "Utah",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:ut"
+  },
+  "_processing": {
+    "logs_latest_update": "2025-10-25T03:09:11Z"
+  }
+}

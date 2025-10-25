@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate/ passed 2nd & 3rd readings/ suspension",
+    "date": "2025-10-06T16:59:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1002"
+}

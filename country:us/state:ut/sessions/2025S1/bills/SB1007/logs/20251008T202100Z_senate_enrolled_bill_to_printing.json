@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate/ enrolled bill to Printing",
+    "date": "2025-10-08T20:21:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 1007"
+}

@@ -1,0 +1,13 @@
+{
+  "action": {
+    "description": "House/ floor amendment failed",
+    "date": "2025-10-06T19:01:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-failure",
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1003"
+}

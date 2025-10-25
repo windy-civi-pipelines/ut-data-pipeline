@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "House/ 3rd reading",
+    "date": "2025-10-06T17:27:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1001"
+}

@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Enrolled Bill Returned to House or Senate",
+    "date": "2025-10-08T18:27:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "enrolled"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1007"
+}

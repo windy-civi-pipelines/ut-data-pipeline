@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Senate/ received bill from Legislative Printing",
+    "date": "2025-10-06T13:22:00+00:00",
+    "organization_id": "~{\"classification\": \"legislature\"}",
+    "classification": [
+      "receipt"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1007"
+}

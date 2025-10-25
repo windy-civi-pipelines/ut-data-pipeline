@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ signed by Speaker/ returned to Senate",
+    "date": "2025-10-06T19:43:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1009"
+}

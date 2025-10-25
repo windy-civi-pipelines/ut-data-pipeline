@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "House/ substitute adoption failed",
+    "date": "2025-10-06T17:24:00+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "failure"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "SB 1011"
+}
