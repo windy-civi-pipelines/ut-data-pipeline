@@ -3326,6 +3326,7 @@
     "division_id": "ocd-division/country:us/state:ut"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-25T03:09:11Z"
+    "logs_latest_update": "2025-10-25T03:09:11Z",
+    "text_extraction_latest_update": "2025-10-25T08:23:02.428876Z"
   }
 }

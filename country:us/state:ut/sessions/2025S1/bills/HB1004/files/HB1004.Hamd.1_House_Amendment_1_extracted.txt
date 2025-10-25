@@ -1,0 +1,51 @@
+Title: House Amendments Amendment 1 October 06, 2025 12:50 PM
+Official Title: House Amendments Amendment 1 October 06, 2025 12:50 PM
+Number of Sections: 2
+Source: versions - House Amendment 1
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+H.B. 1004
+Election Records Amendments
+Representative Norman K Thurston proposes the following amendments:
+
+Section 2:
+1. Line 1241 through 1249:
+1241 election day;
+1242 (ii) the number of {provisional } ballots counted by the election officer that were:
+1243 {(A) cast by voters on the day before the day of the election under Subsection }
+1244 20A-3a-601(3); and}
+1245 {(B)} cast by voters who registered to vote on election day under Section 20A-2-207;
+1246 (iii) the total number of ballots counted by the election officer;
+1247 (iv) the quotient of the number described in Subsection (2)(e)(iii) divided {by the sum }
+1248 {of the numbers described in Subsection (2)(e)(i) and (ii)} by the number described in
+Subsection (2)(e)(i);
+1249 (v) of the number described in Subsection (2)(e)(iii):
+- 1 -
+[DELETED: sA1O1e2 3 425 6 7 8 9 ]
+
+
+================================================================================
+
+Raw Text:
+H.B. 1004
+Election Records Amendments
+House Amendments Amendment 1 October 06, 2025 12:50 PM
+Representative Norman K Thurston proposes the following amendments:
+1. Line 1241 through 1249:
+1241 election day;
+1242 (ii) the number of {provisional } ballots counted by the election officer that were:
+1243 {(A) cast by voters on the day before the day of the election under Subsection }
+1244 20A-3a-601(3); and}
+1245 {(B)} cast by voters who registered to vote on election day under Section 20A-2-207;
+1246 (iii) the total number of ballots counted by the election officer;
+1247 (iv) the quotient of the number described in Subsection (2)(e)(iii) divided {by the sum }
+1248 {of the numbers described in Subsection (2)(e)(i) and (ii)} by the number described in
+Subsection (2)(e)(i);
+1249 (v) of the number described in Subsection (2)(e)(iii):
+- 1 -
+
+[DELETED: sA1O1e2 3 425 6 7 8 9 ]

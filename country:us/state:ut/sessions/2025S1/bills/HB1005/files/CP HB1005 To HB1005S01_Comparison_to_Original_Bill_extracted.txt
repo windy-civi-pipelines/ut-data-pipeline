@@ -1,0 +1,692 @@
+Title: {Omitted text} shows text that was in HB1005 but was omitted in HB1005S01
+Official Title: {Omitted text} shows text that was in HB1005 but was omitted in HB1005S01
+Number of Sections: 1
+Source: versions - Comparison to Original Bill
+Media Type: application/pdf
+Strikethrough Detection: 10 sections found
+
+================================================================================
+
+Section 1:
+HB1005S01 compared with HB1005
+inserted text shows text that was not in HB1005 but was inserted into HB1005S01
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 County Governance Amendments
+2025 FIRST SPECIAL SESSION
+STATE OF UTAH
+Chief Sponsor: Jordan D. Teuscher
+Senate Sponsor:Michael K. McKell
+2
+3 LONG TITLE
+4 General Description:
+5 This bill modifies provisions relating to forms of county government.
+6 Highlighted Provisions:
+7 This bill:
+8 ▸ defines terms;
+9 ▸ requires a county council member in certain counties to represent a district, with exceptions;
+1 1 ▸ establishes a process for a county to create and implement a county council district map;
+1 2 ▸ establishes deadlines for certain counties to implement district maps;
+1 3 ▸ describes the circumstances in which a previously at-large county council member may represent
+a county council district in which the county council member does not live following the adoption of a
+district map;
+1 6 ▸ describes the circumstances in which certain counties may redistrict;
+1 7 ▸ describes the penalties for failure to create and implement a county council district map;
+1 7 ▸ provides a sunset date; and
+1 8 ▸ makes technical and conforming changes.
+HB1005
+HB1005 compared with HB1005S01
+20 Money Appropriated in this Bill:
+21 None
+22 Other Special Clauses:
+23 This bill provides a special effective date.
+25 AMENDS:
+26 17-52a-203 , as renumbered and amended by Laws of Utah 2018, Chapter 68 , as renumbered and
+amended by Laws of Utah 2018, Chapter 68
+27 17-52a-204 , as last amended by Laws of Utah 2025, Chapter 535 , as last amended by Laws of
+Utah 2025, Chapter 535
+28 63I-2-217 , as last amended by Laws of Utah 2025, Chapter 62 , as last amended by Laws of Utah
+2025, Chapter 62
+29
+30 Be it enacted by the Legislature of the state of Utah:
+31 Section 1. Section 17-52a-203 is amended to read:
+32 17-52a-203. County executive-council form of county government.
+32 (1)
+[(a)] As used in this section, "district" means the same as that term is defined in Section 17-52a-204.
+34 (2)
+(a) The following shall govern a county operating under the form of government known as the "county
+executive-council" form:
+36 (i) an elected county council;
+37 (ii) an elected county executive; and
+38 (iii) other officers and employees authorized by law.
+39 (b) The optional plan shall provide for the qualifications, time, and manner of election, term of office
+and compensation of the county executive.
+41 [(2)] (3) The county executive is the chief executive officer or body of the county.
+42 [(3)] (4) In the county executive-council form of county government:
+43 (a) the county council is the county legislative body and has the powers, duties, and functions of a
+county legislative body under Chapter 53, Part 2, County Legislative Body; and
+46 (b) the county executive has the powers, duties, and functions of a county executive under Chapter 53,
+Part 3, County Executive.
+- 2 -
+HB1005 compared with HB1005S01
+48 [(4)] (5) References in any statute or state rule to the "governing body" or the "board of county
+commissioners" of the county, in the county executive-council form of county government, means:
+51 (a) the county council, with respect to legislative functions, duties, and powers; and
+52 (b) the county executive, with respect to executive functions, duties, and powers.
+53 (6)
+(a) Except as provided in Subsection (6)(b), beginning on October 15, 2025, a county with a county
+executive-council form of government shall ensure that each council member:
+56 (i) represents a single district, rather than being elected at-large;
+57 (ii) is elected by a majority of voters residing within the member's district; and
+58 (iii) resides in the district the council member represents.
+59 (b) A county with a county executive-council form of government where , on and after May 7, 2025, at
+least 65% of county council members {meet the qualifications of } represent districts as described
+in Subsection (6)(a) {on October 15, 2025, } may continue to have one or more county council
+members elected at-large.
+64 (c) A county that adopts a county executive-council form of government after May 7, 2025, shall ensure
+that all county council members meet the qualifications described in Subsection (6)(a).
+62 (7) A county with a county executive-council form of government shall:
+63 (a) ensure that each time the county implements a district map or conducts redistricting for the
+county council districts, the resulting district map complies with the requirements in Subsection
+17-52a-204(13)(b)(i); and
+66 (b) adopt a district map as described in Subsection 17-52a-204(13)(b)(ii).
+72 (8)
+(a) A voter in a county that fails to comply with the requirements of Subsections (6) and (7) may
+commence suit in a court of competent jurisdiction to compel compliance with, or enjoin a violation
+of, Subsections (6) and (7).
+75 (b) The court may award reasonable attorney fees and court costs to a successful plaintiff.
+77 (9) Beginning January 1, 2026, for a county that fails to comply with the requirements of Subsections
+(6) and (7), in addition to the remedies described in Subsection (8), the state auditor may suspend
+disbursements of transient room tax revenue to the county until the county establishes that the
+county is in compliance with Subsections (6) and (7).
+81 Section 2. Section 17-52a-204 is amended to read:
+- 3 -
+HB1005 compared with HB1005S01
+82 17-52a-204. Council-manager form of county government -- Establishment of voting
+districts.
+70 (1) As used in this section, "district" means a geographic area within the boundaries of a county with
+a council-manager form of government that is represented only by one council member [who is a
+resident of the area.] who:
+73 (a) resides in the district;
+74 (b) represents only the district where the member resides; and
+75 (c) is elected only by voters who reside in the same district as the district where the member resides,
+and that the member represents.
+77 (2)
+(a) The following shall govern a county operating under the form of government known as the "council-
+manager" form:
+79 (i) an elected county council;
+80 (ii) a county manager appointed by the council; and
+81 (iii) other officers and employees authorized by law.
+82 (b) The optional plan shall provide for the qualifications, time and manner of appointment subject to
+Subsections (7) and (8), term of office, compensation, and removal of the county manager.
+85 (3) The county manager is the administrative head of the county government and has the powers,
+functions, and duties of a county executive, except:
+87 (a) as the county legislative body otherwise provides by ordinance; and
+88 (b) that the county manager may not veto any ordinances enacted by the council.
+89 (4)
+(a) An individual member of the council may not directly or indirectly, by suggestion or otherwise:
+91 (i) attempt to influence or coerce the manager in:
+92 (A) making any appointment;
+93 (B) removing any officer or employee; or
+94 (C) purchasing supplies;
+95 (ii) attempt to exact any promise relative to any appointment from any candidate for manager; or
+97 (iii) discuss directly or indirectly with the manager the matter of specific appointments to any
+county office or employment.
+99 (b)
+- 4 -
+HB1005 compared with HB1005S01
+(i) A member of the county council who violates the provisions of this Subsection (4) shall forfeit the
+member's county council office.
+101 (ii) Nothing in this section shall be construed, however, as prohibiting the council from fully and freely
+discussing with or suggesting to the manager anything pertaining to county affairs or the interests of
+the county.
+104 (iii) The county manager may not take part in securing, or contributing any money toward, the
+nomination or election of any candidate for a county office.
+106 (iv) The optional plan may provide procedures for implementing this Subsection (4).
+107 (5) In the council-manager form of county government:
+108 (a) the legislative powers of the county are vested in the county council; and
+109 (b) the executive powers of the county are vested in the county manager.
+110 (6) A reference in statute or state rule to the "governing body" or the "board of county commissioners"
+of the county, in the council-manager form of county government, means:
+113 (a) the county council, with respect to legislative functions, duties, and powers; and
+114 (b) the county manager, with respect to executive functions, duties, and powers.
+115 (7)
+(a) As used in this Subsection (7), "interim vacancy period" means the period of time that:
+117 (i) begins on the day on which a general election described in Section 17-16-6 is held to elect a
+council member; and
+119 (ii) ends on the day on which the council member-elect begins the council member's term.
+121 (b)
+(i) The county council may not appoint a county manager during an interim vacancy period.
+123 (ii) Notwithstanding Subsection (7)(b)(i):
+124 (A) the county council may appoint an interim county manager during an interim vacancy period; and
+126 (B) the interim county manager's term shall expire once a new county manager is appointed by the new
+administration after the interim vacancy period has ended.
+128 (c) Subsection (7)(b) does not apply if all the county council members who held office on the day of the
+county general election whose term of office was vacant for the election are re-elected to the council
+for the following term.
+131 (8) A county council that appoints a county manager in accordance with this section may not enter into
+an employment contract that contains an automatic renewal provision with the county manager.
+- 5 -
+HB1005 compared with HB1005S01
+134 (9)
+(a) [A] Except as provided in Subsections (9)(b) and (10), beginning on May 7, 2025, a county [of the
+third through sixth class ]with a council-manager form of government shall ensure that each council
+member:
+137 [(a)] (i) represents a single district, rather than being elected [at large] at-large;
+138 [(b)] (ii) is elected by a majority vote of voters residing within the member's district; and
+140 [(c)] (iii) [is a resident of ] except as provided in Subsections (12)(a)(iii) and (12)(b), resides in the
+district the council member represents.
+142 (b) A county with a council-manager form of government where at least 65% of county council
+members meet the qualifications of Subsection (9)(a) on and after May 7, 2025, may continue to
+have one or more county council members elected at-large.
+159 (c) A county that adopts a council-manager form of government after May 7, 2025, shall ensure that all
+county council members meet the qualifications described in Subsection (9)(a).
+145 (10) For a county with a council-manager form of government that does not comply with Subsection
+(9)(a) on May 7, 2025, and to which the exception in Subsection (9)(b) does not apply, the county
+council shall:
+148 (a) on or before June 1, 2025, establish a districting commission in accordance with Subsection (11);
+150 (b) by October 15, 2025, hold a public meeting at which:
+151 (i) the county council shall adopt the proposed district map submitted as described in Subsection (11)
+(d); and
+153 (ii) the county clerk shall designate a current council member to represent each district for the
+remainder of the county council member's term of office in accordance with Subsection (12); and
+156 (c) implement the district map adopted under Subsection (10)(b)(i) for the next county council election.
+158 [(10)
+(a) For a county with a council-manager form of government that, on May 7, 2025, does not meet the
+requirements described in Subsection (9), the county council shall, on or before June 1, 2025:]
+161 [(i) in accordance with Subsection (10)(b), establish a county districting commission; and]
+163 [(ii) in accordance with Subsection (10)(c)(i), approve a map of the county council districts.]
+165 [(b)
+(i) A county council shall comply with Subsection (10)(a)(i) by establishing a county districting
+commission, consisting of:]
+- 6 -
+HB1005 compared with HB1005S01
+167 [(A) one representative from each municipality in the county, who is either the municipality's
+mayor or a resident whom the mayor appoints;]
+169 [(B) one representative who resides in an unincorporated area of the county and is appointed by the
+county council; and]
+171 [(C) the county clerk, or the county clerk's designee, as a non-voting member.]
+172 [(ii) The county districting commission shall divide the county into districts by:]
+173 [(A) relying on the total population enumeration of the most recent decennial census;]
+175 [(B) ensuring that between districts, there is less than 10% total population deviation;]
+177 [(C) ensuring that each district is contiguous and reasonably compact;]
+178 [(D) ensuring that district boundaries do not divide existing voter precincts; and]
+179 [(E) complying with the United States Constitution.]
+180 [(iii) The county districting commission shall submit a proposed map of district boundaries to the
+county council for approval for the initial districting process, on or before October 1, 2025.]
+183 [(iv) The county manager shall provide for the county districting commission:]
+184 [(A) county staff for assistance; and]
+185 [(B) suitable meeting facilities.]
+186 [(c) After receiving the district map described in Subsection (10)(b)(iii), the county council shall, within
+30 calendar days after the day on which the county council receives the map, hold a public hearing,
+at which:]
+189 [(i) the county council shall approve the district map if the map complies with the requirements
+described in Subsection (10)(b)(ii); and]
+191 [(ii) the county clerk shall designate, by lot, a current county council member to represent each district
+for the remainder of the council member's term of office, regardless of whether the council member
+is a resident of that district.]
+194 (11) [After the adoption of a district map under Subsection (10)(c)(i), at an election in which a county
+council position is subject to an election:] A county districting commission established under
+Subsection (10) shall:
+197 [(a) each candidate for that position must reside in the district that the position represents; and]
+199 [(b) the council member for the district shall be elected by a majority vote of voters residing in the
+district.]
+201 (a) consist of:
+- 7 -
+HB1005 compared with HB1005S01
+202 (i) one representative from each municipality located wholly within the county, who is either the
+municipality's mayor or a municipal resident whom the mayor appoints;
+205 (ii) one representative who resides in an unincorporated area of the county, appointed by the county
+council; and
+207 (iii) the county clerk, or the county clerk's designee, as a non-voting member;
+208 (b) select by majority vote the chair of the districting commission from among the membership of the
+districting commission;
+210 (c) divide the county into districts by:
+211 (i) using the total population enumeration of the most recent decennial census to ensure that there is less
+than 10% total population deviation between each district;
+213 (ii) ensuring that each district is contiguous and reasonably compact;
+214 (iii) drawing district boundary lines that, to the extent practicable, do not divide existing voting
+precincts; and
+216 (iv) complying with the United States Constitution; and
+217 (d) by no later than October 1, 2025, submit a proposed district map to the county council that:
+219 (i) is recommended by a majority of districting commission members; and
+220 (ii) complies with the requirements of Subsection (11)(c).
+221 (12)
+(a) For a county council that adopts a district map described in Subsection (10)(b), the county clerk
+shall designate{, by lot, } one current county council member to serve each district for the
+remainder of the county council member's term as {follows:of office, regardless of whether the
+council member is a resident of that district.} follows:
+224 (i) if only one county council member lives in a district in an adopted district map, the county clerk
+shall assign that county council member to represent that district;
+226 (ii) if more than one county council member lives in a district in an adopted district map, the county
+clerk shall draw lots and assign one county council member to represent the district; and
+229 (iii) if no county council members live in a district in an adopted district map, the county clerk shall
+draw lots and assign from the county council members not already assigned under Subsections
+(12)(a)(i) and (ii) one county council member to represent each district.
+233 (b) For a county council member assigned under Subsection (12)(a)(iii) to represent a district in which
+the county council member does not live, the county council member is eligible to hold the county
+- 8 -
+HB1005 compared with HB1005S01
+council member's seat in the assigned district until the end of the term that the county council
+member was in on October 15, 2025, unless earlier disqualified by another provision of law.
+238 [(12)] (13)
+(a) After [creating districts and adopting] a county implements a district map [under{]} {[} Subsections
+(10) and (11)] for the election of county council members, a county [described in Subsection (10)
+]may not redistrict until:
+241 (i) an official decennial census publicly releases population data for the county, unless otherwise
+required by law[.] ; or
+243 (ii) population growth in the county results in greater than 10% population deviation between
+districts.
+245 (b) Each time a county [described in Subsection (10)(a) ]conducts redistricting for the county council
+districts, the county council shall redistrict by:
+247 (i) adjusting districts [in accordance with Subsections (10)(b)(ii)(A), (B), (C), and (E); and] in a
+proposed district map by:
+249 (A) using the total population enumeration of the most recent decennial census to ensure that there is
+less than 10% total population deviation between each district;
+252 (B) ensuring that each district is contiguous and reasonably compact;
+253 (C) drawing district boundary lines that, to the extent practicable, do not divide existing voting
+precincts; and
+255 (D) complying with the United States Constitution; and
+256 (ii) after drawing a proposed [map of district boundaries] district map, holding a public
+[hearing] meeting, at which the county council shall:
+258 (A) [approve] adopt the map as proposed[,] ; or
+259 (B) revise the map and{, if the revised map fulfills the requirements of Subsection (13)(b)(i),}
+[approve] , if the revised map fulfills the requirements of Subsection (13)(b)(i), adopt the revised
+map.
+278 (14)
+(a) A voter in a county that fails to comply with the requirements of Subsections (9) through (13) may
+commence suit in a court of competent jurisdiction to compel compliance with, or enjoin a violation
+of, Subsections (9) through (13).
+281 (b) The court may award reasonable attorney fees and court costs to a successful plaintiff.
+- 9 -
+HB1005 compared with HB1005S01
+283 (15) Beginning January 1, 2026, for a county that fails to comply with the requirements of Subsections
+(9) through (13), in addition to the remedies described in Subsection (14), the state auditor may
+suspend disbursements of transient room tax revenue to the county until the county establishes that
+the county is in compliance with Subsections (9) through (13).
+288 Section 3. Section 63I-2-217 is amended to read:
+289 63I-2-217. Repeal dates: Titles 17 through 17D.
+263 (1) Subsection 17-22-2(1)(o), regarding a sheriff's contractual duties under an interlocal agreement for
+law enforcement services, is repealed July 1, 2025.
+265 (2) Subsection 17-22-2(3), regarding the role of a sheriff in a police interlocal entity or police local
+district, is repealed July 1, 2025.
+267 (3) Section 17-27a-604.9, Effective dates of Sections 17-27a-604.1 and 17-27a-604.2, is repealed
+January 1, 2025.
+269 (4) Subsection 17-27a-509(4)(c), regarding an inspection fee on a qualified water conservancy district,
+is repealed July 1, 2026.
+271 (5) Subsection 17-52a-103(3), regarding the process for changing a form of county government, is
+repealed January 1, 2028.
+273 (6) Subsections 17-52a-103(10) through (12), regarding the process to create a districting commission
+and implementing a district map, are repealed July 1, {2026} 2029.
+302 Section 4. Effective date.
+Effective Date.
+This bill takes effect:
+277 (1) except as provided in Subsection (2), December 6, 2025; or
+278 (2) if approved by two-thirds of all members elected to each house:
+279 (a) upon approval by the governor;
+280 (b) without the governor's signature, the day following the constitutional time limit of Utah
+Constitution, Article VII, Section 8; or
+282 (c) in the case of a veto, the date of veto override.
+10-6-25 10:48 AM
+- 10 -
+[DELETED: 4G5T6H7Tdreedddpm]
+[DELETED: 20M21N22O23T25A2612286230B31S332(34(36(37(38(39(41[42[43(46(]
+[DELETED: 48[51(52(53(557(58(59(64(62(63(66(72(75(77(81S]
+[DELETED: 870(73(74(777(780(81(82(85(87(88(89(91(92(93(94(997(99(]
+[DELETED: 11(14(117(18(19(10(13(14(15(17(19(11(114(16(18(11(]
+[DELETED: 14(17[18[10[12(19(15(18(10(11(13(118[11[115[]
+[DELETED: 17[19[11[12[13[117[18[19[10[13[14[15[16[19[11[14(119[21(]
+[DELETED: 22(25(27(28(221(23(24(26(27(29(20(21(226(29(23(]
+[DELETED: 28[21(23(25(229(22(23(25(26(229(28(21(]
+[DELETED: 23(28S223(25(27(221(23(32S27(229(20(22(]
+
+
+================================================================================
+
+Raw Text:
+HB1005S01 compared with HB1005
+{Omitted text} shows text that was in HB1005 but was omitted in HB1005S01
+inserted text shows text that was not in HB1005 but was inserted into HB1005S01
+DISCLAIMER: This document is provided to assist you in your comparison of the two bills. Sometimes
+this automated comparison will NOT be completely accurate. Therefore, you need to read the actual bills.
+This automatically generated document could contain inaccuracies caused by: limitations of the compare
+program; bad input data; or other causes.
+1 County Governance Amendments
+2025 FIRST SPECIAL SESSION
+STATE OF UTAH
+Chief Sponsor: Jordan D. Teuscher
+Senate Sponsor:Michael K. McKell
+2
+3 LONG TITLE
+4 General Description:
+5 This bill modifies provisions relating to forms of county government.
+6 Highlighted Provisions:
+7 This bill:
+8 ▸ defines terms;
+9 ▸ requires a county council member in certain counties to represent a district, with exceptions;
+1 1 ▸ establishes a process for a county to create and implement a county council district map;
+1 2 ▸ establishes deadlines for certain counties to implement district maps;
+1 3 ▸ describes the circumstances in which a previously at-large county council member may represent
+a county council district in which the county council member does not live following the adoption of a
+district map;
+1 6 ▸ describes the circumstances in which certain counties may redistrict;
+1 7 ▸ describes the penalties for failure to create and implement a county council district map;
+1 7 ▸ provides a sunset date; and
+1 8 ▸ makes technical and conforming changes.
+HB1005
+
+HB1005 compared with HB1005S01
+20 Money Appropriated in this Bill:
+21 None
+22 Other Special Clauses:
+23 This bill provides a special effective date.
+25 AMENDS:
+26 17-52a-203 , as renumbered and amended by Laws of Utah 2018, Chapter 68 , as renumbered and
+amended by Laws of Utah 2018, Chapter 68
+27 17-52a-204 , as last amended by Laws of Utah 2025, Chapter 535 , as last amended by Laws of
+Utah 2025, Chapter 535
+28 63I-2-217 , as last amended by Laws of Utah 2025, Chapter 62 , as last amended by Laws of Utah
+2025, Chapter 62
+29
+30 Be it enacted by the Legislature of the state of Utah:
+31 Section 1. Section 17-52a-203 is amended to read:
+32 17-52a-203. County executive-council form of county government.
+32 (1)
+[(a)] As used in this section, "district" means the same as that term is defined in Section 17-52a-204.
+34 (2)
+(a) The following shall govern a county operating under the form of government known as the "county
+executive-council" form:
+36 (i) an elected county council;
+37 (ii) an elected county executive; and
+38 (iii) other officers and employees authorized by law.
+39 (b) The optional plan shall provide for the qualifications, time, and manner of election, term of office
+and compensation of the county executive.
+41 [(2)] (3) The county executive is the chief executive officer or body of the county.
+42 [(3)] (4) In the county executive-council form of county government:
+43 (a) the county council is the county legislative body and has the powers, duties, and functions of a
+county legislative body under Chapter 53, Part 2, County Legislative Body; and
+46 (b) the county executive has the powers, duties, and functions of a county executive under Chapter 53,
+Part 3, County Executive.
+- 2 -
+
+HB1005 compared with HB1005S01
+48 [(4)] (5) References in any statute or state rule to the "governing body" or the "board of county
+commissioners" of the county, in the county executive-council form of county government, means:
+51 (a) the county council, with respect to legislative functions, duties, and powers; and
+52 (b) the county executive, with respect to executive functions, duties, and powers.
+53 (6)
+(a) Except as provided in Subsection (6)(b), beginning on October 15, 2025, a county with a county
+executive-council form of government shall ensure that each council member:
+56 (i) represents a single district, rather than being elected at-large;
+57 (ii) is elected by a majority of voters residing within the member's district; and
+58 (iii) resides in the district the council member represents.
+59 (b) A county with a county executive-council form of government where , on and after May 7, 2025, at
+least 65% of county council members {meet the qualifications of } represent districts as described
+in Subsection (6)(a) {on October 15, 2025, } may continue to have one or more county council
+members elected at-large.
+64 (c) A county that adopts a county executive-council form of government after May 7, 2025, shall ensure
+that all county council members meet the qualifications described in Subsection (6)(a).
+62 (7) A county with a county executive-council form of government shall:
+63 (a) ensure that each time the county implements a district map or conducts redistricting for the
+county council districts, the resulting district map complies with the requirements in Subsection
+17-52a-204(13)(b)(i); and
+66 (b) adopt a district map as described in Subsection 17-52a-204(13)(b)(ii).
+72 (8)
+(a) A voter in a county that fails to comply with the requirements of Subsections (6) and (7) may
+commence suit in a court of competent jurisdiction to compel compliance with, or enjoin a violation
+of, Subsections (6) and (7).
+75 (b) The court may award reasonable attorney fees and court costs to a successful plaintiff.
+77 (9) Beginning January 1, 2026, for a county that fails to comply with the requirements of Subsections
+(6) and (7), in addition to the remedies described in Subsection (8), the state auditor may suspend
+disbursements of transient room tax revenue to the county until the county establishes that the
+county is in compliance with Subsections (6) and (7).
+81 Section 2. Section 17-52a-204 is amended to read:
+- 3 -
+
+HB1005 compared with HB1005S01
+82 17-52a-204. Council-manager form of county government -- Establishment of voting
+districts.
+70 (1) As used in this section, "district" means a geographic area within the boundaries of a county with
+a council-manager form of government that is represented only by one council member [who is a
+resident of the area.] who:
+73 (a) resides in the district;
+74 (b) represents only the district where the member resides; and
+75 (c) is elected only by voters who reside in the same district as the district where the member resides,
+and that the member represents.
+77 (2)
+(a) The following shall govern a county operating under the form of government known as the "council-
+manager" form:
+79 (i) an elected county council;
+80 (ii) a county manager appointed by the council; and
+81 (iii) other officers and employees authorized by law.
+82 (b) The optional plan shall provide for the qualifications, time and manner of appointment subject to
+Subsections (7) and (8), term of office, compensation, and removal of the county manager.
+85 (3) The county manager is the administrative head of the county government and has the powers,
+functions, and duties of a county executive, except:
+87 (a) as the county legislative body otherwise provides by ordinance; and
+88 (b) that the county manager may not veto any ordinances enacted by the council.
+89 (4)
+(a) An individual member of the council may not directly or indirectly, by suggestion or otherwise:
+91 (i) attempt to influence or coerce the manager in:
+92 (A) making any appointment;
+93 (B) removing any officer or employee; or
+94 (C) purchasing supplies;
+95 (ii) attempt to exact any promise relative to any appointment from any candidate for manager; or
+97 (iii) discuss directly or indirectly with the manager the matter of specific appointments to any
+county office or employment.
+99 (b)
+- 4 -
+
+HB1005 compared with HB1005S01
+(i) A member of the county council who violates the provisions of this Subsection (4) shall forfeit the
+member's county council office.
+101 (ii) Nothing in this section shall be construed, however, as prohibiting the council from fully and freely
+discussing with or suggesting to the manager anything pertaining to county affairs or the interests of
+the county.
+104 (iii) The county manager may not take part in securing, or contributing any money toward, the
+nomination or election of any candidate for a county office.
+106 (iv) The optional plan may provide procedures for implementing this Subsection (4).
+107 (5) In the council-manager form of county government:
+108 (a) the legislative powers of the county are vested in the county council; and
+109 (b) the executive powers of the county are vested in the county manager.
+110 (6) A reference in statute or state rule to the "governing body" or the "board of county commissioners"
+of the county, in the council-manager form of county government, means:
+113 (a) the county council, with respect to legislative functions, duties, and powers; and
+114 (b) the county manager, with respect to executive functions, duties, and powers.
+115 (7)
+(a) As used in this Subsection (7), "interim vacancy period" means the period of time that:
+117 (i) begins on the day on which a general election described in Section 17-16-6 is held to elect a
+council member; and
+119 (ii) ends on the day on which the council member-elect begins the council member's term.
+121 (b)
+(i) The county council may not appoint a county manager during an interim vacancy period.
+123 (ii) Notwithstanding Subsection (7)(b)(i):
+124 (A) the county council may appoint an interim county manager during an interim vacancy period; and
+126 (B) the interim county manager's term shall expire once a new county manager is appointed by the new
+administration after the interim vacancy period has ended.
+128 (c) Subsection (7)(b) does not apply if all the county council members who held office on the day of the
+county general election whose term of office was vacant for the election are re-elected to the council
+for the following term.
+131 (8) A county council that appoints a county manager in accordance with this section may not enter into
+an employment contract that contains an automatic renewal provision with the county manager.
+- 5 -
+
+HB1005 compared with HB1005S01
+134 (9)
+(a) [A] Except as provided in Subsections (9)(b) and (10), beginning on May 7, 2025, a county [of the
+third through sixth class ]with a council-manager form of government shall ensure that each council
+member:
+137 [(a)] (i) represents a single district, rather than being elected [at large] at-large;
+138 [(b)] (ii) is elected by a majority vote of voters residing within the member's district; and
+140 [(c)] (iii) [is a resident of ] except as provided in Subsections (12)(a)(iii) and (12)(b), resides in the
+district the council member represents.
+142 (b) A county with a council-manager form of government where at least 65% of county council
+members meet the qualifications of Subsection (9)(a) on and after May 7, 2025, may continue to
+have one or more county council members elected at-large.
+159 (c) A county that adopts a council-manager form of government after May 7, 2025, shall ensure that all
+county council members meet the qualifications described in Subsection (9)(a).
+145 (10) For a county with a council-manager form of government that does not comply with Subsection
+(9)(a) on May 7, 2025, and to which the exception in Subsection (9)(b) does not apply, the county
+council shall:
+148 (a) on or before June 1, 2025, establish a districting commission in accordance with Subsection (11);
+150 (b) by October 15, 2025, hold a public meeting at which:
+151 (i) the county council shall adopt the proposed district map submitted as described in Subsection (11)
+(d); and
+153 (ii) the county clerk shall designate a current council member to represent each district for the
+remainder of the county council member's term of office in accordance with Subsection (12); and
+156 (c) implement the district map adopted under Subsection (10)(b)(i) for the next county council election.
+158 [(10)
+(a) For a county with a council-manager form of government that, on May 7, 2025, does not meet the
+requirements described in Subsection (9), the county council shall, on or before June 1, 2025:]
+161 [(i) in accordance with Subsection (10)(b), establish a county districting commission; and]
+163 [(ii) in accordance with Subsection (10)(c)(i), approve a map of the county council districts.]
+165 [(b)
+(i) A county council shall comply with Subsection (10)(a)(i) by establishing a county districting
+commission, consisting of:]
+- 6 -
+
+HB1005 compared with HB1005S01
+167 [(A) one representative from each municipality in the county, who is either the municipality's
+mayor or a resident whom the mayor appoints;]
+169 [(B) one representative who resides in an unincorporated area of the county and is appointed by the
+county council; and]
+171 [(C) the county clerk, or the county clerk's designee, as a non-voting member.]
+172 [(ii) The county districting commission shall divide the county into districts by:]
+173 [(A) relying on the total population enumeration of the most recent decennial census;]
+175 [(B) ensuring that between districts, there is less than 10% total population deviation;]
+177 [(C) ensuring that each district is contiguous and reasonably compact;]
+178 [(D) ensuring that district boundaries do not divide existing voter precincts; and]
+179 [(E) complying with the United States Constitution.]
+180 [(iii) The county districting commission shall submit a proposed map of district boundaries to the
+county council for approval for the initial districting process, on or before October 1, 2025.]
+183 [(iv) The county manager shall provide for the county districting commission:]
+184 [(A) county staff for assistance; and]
+185 [(B) suitable meeting facilities.]
+186 [(c) After receiving the district map described in Subsection (10)(b)(iii), the county council shall, within
+30 calendar days after the day on which the county council receives the map, hold a public hearing,
+at which:]
+189 [(i) the county council shall approve the district map if the map complies with the requirements
+described in Subsection (10)(b)(ii); and]
+191 [(ii) the county clerk shall designate, by lot, a current county council member to represent each district
+for the remainder of the council member's term of office, regardless of whether the council member
+is a resident of that district.]
+194 (11) [After the adoption of a district map under Subsection (10)(c)(i), at an election in which a county
+council position is subject to an election:] A county districting commission established under
+Subsection (10) shall:
+197 [(a) each candidate for that position must reside in the district that the position represents; and]
+199 [(b) the council member for the district shall be elected by a majority vote of voters residing in the
+district.]
+201 (a) consist of:
+- 7 -
+
+HB1005 compared with HB1005S01
+202 (i) one representative from each municipality located wholly within the county, who is either the
+municipality's mayor or a municipal resident whom the mayor appoints;
+205 (ii) one representative who resides in an unincorporated area of the county, appointed by the county
+council; and
+207 (iii) the county clerk, or the county clerk's designee, as a non-voting member;
+208 (b) select by majority vote the chair of the districting commission from among the membership of the
+districting commission;
+210 (c) divide the county into districts by:
+211 (i) using the total population enumeration of the most recent decennial census to ensure that there is less
+than 10% total population deviation between each district;
+213 (ii) ensuring that each district is contiguous and reasonably compact;
+214 (iii) drawing district boundary lines that, to the extent practicable, do not divide existing voting
+precincts; and
+216 (iv) complying with the United States Constitution; and
+217 (d) by no later than October 1, 2025, submit a proposed district map to the county council that:
+219 (i) is recommended by a majority of districting commission members; and
+220 (ii) complies with the requirements of Subsection (11)(c).
+221 (12)
+(a) For a county council that adopts a district map described in Subsection (10)(b), the county clerk
+shall designate{, by lot, } one current county council member to serve each district for the
+remainder of the county council member's term as {follows:of office, regardless of whether the
+council member is a resident of that district.} follows:
+224 (i) if only one county council member lives in a district in an adopted district map, the county clerk
+shall assign that county council member to represent that district;
+226 (ii) if more than one county council member lives in a district in an adopted district map, the county
+clerk shall draw lots and assign one county council member to represent the district; and
+229 (iii) if no county council members live in a district in an adopted district map, the county clerk shall
+draw lots and assign from the county council members not already assigned under Subsections
+(12)(a)(i) and (ii) one county council member to represent each district.
+233 (b) For a county council member assigned under Subsection (12)(a)(iii) to represent a district in which
+the county council member does not live, the county council member is eligible to hold the county
+- 8 -
+
+HB1005 compared with HB1005S01
+council member's seat in the assigned district until the end of the term that the county council
+member was in on October 15, 2025, unless earlier disqualified by another provision of law.
+238 [(12)] (13)
+(a) After [creating districts and adopting] a county implements a district map [under{]} {[} Subsections
+(10) and (11)] for the election of county council members, a county [described in Subsection (10)
+]may not redistrict until:
+241 (i) an official decennial census publicly releases population data for the county, unless otherwise
+required by law[.] ; or
+243 (ii) population growth in the county results in greater than 10% population deviation between
+districts.
+245 (b) Each time a county [described in Subsection (10)(a) ]conducts redistricting for the county council
+districts, the county council shall redistrict by:
+247 (i) adjusting districts [in accordance with Subsections (10)(b)(ii)(A), (B), (C), and (E); and] in a
+proposed district map by:
+249 (A) using the total population enumeration of the most recent decennial census to ensure that there is
+less than 10% total population deviation between each district;
+252 (B) ensuring that each district is contiguous and reasonably compact;
+253 (C) drawing district boundary lines that, to the extent practicable, do not divide existing voting
+precincts; and
+255 (D) complying with the United States Constitution; and
+256 (ii) after drawing a proposed [map of district boundaries] district map, holding a public
+[hearing] meeting, at which the county council shall:
+258 (A) [approve] adopt the map as proposed[,] ; or
+259 (B) revise the map and{, if the revised map fulfills the requirements of Subsection (13)(b)(i),}
+[approve] , if the revised map fulfills the requirements of Subsection (13)(b)(i), adopt the revised
+map.
+278 (14)
+(a) A voter in a county that fails to comply with the requirements of Subsections (9) through (13) may
+commence suit in a court of competent jurisdiction to compel compliance with, or enjoin a violation
+of, Subsections (9) through (13).
+281 (b) The court may award reasonable attorney fees and court costs to a successful plaintiff.
+- 9 -
+
+HB1005 compared with HB1005S01
+283 (15) Beginning January 1, 2026, for a county that fails to comply with the requirements of Subsections
+(9) through (13), in addition to the remedies described in Subsection (14), the state auditor may
+suspend disbursements of transient room tax revenue to the county until the county establishes that
+the county is in compliance with Subsections (9) through (13).
+288 Section 3. Section 63I-2-217 is amended to read:
+289 63I-2-217. Repeal dates: Titles 17 through 17D.
+263 (1) Subsection 17-22-2(1)(o), regarding a sheriff's contractual duties under an interlocal agreement for
+law enforcement services, is repealed July 1, 2025.
+265 (2) Subsection 17-22-2(3), regarding the role of a sheriff in a police interlocal entity or police local
+district, is repealed July 1, 2025.
+267 (3) Section 17-27a-604.9, Effective dates of Sections 17-27a-604.1 and 17-27a-604.2, is repealed
+January 1, 2025.
+269 (4) Subsection 17-27a-509(4)(c), regarding an inspection fee on a qualified water conservancy district,
+is repealed July 1, 2026.
+271 (5) Subsection 17-52a-103(3), regarding the process for changing a form of county government, is
+repealed January 1, 2028.
+273 (6) Subsections 17-52a-103(10) through (12), regarding the process to create a districting commission
+and implementing a district map, are repealed July 1, {2026} 2029.
+302 Section 4. Effective date.
+Effective Date.
+This bill takes effect:
+277 (1) except as provided in Subsection (2), December 6, 2025; or
+278 (2) if approved by two-thirds of all members elected to each house:
+279 (a) upon approval by the governor;
+280 (b) without the governor's signature, the day following the constitutional time limit of Utah
+Constitution, Article VII, Section 8; or
+282 (c) in the case of a veto, the date of veto override.
+10-6-25 10:48 AM
+- 10 -
+
+[DELETED: 4G5T6H7Tdreedddpm]
+[DELETED: 20M21N22O23T25A2612286230B31S332(34(36(37(38(39(41[42[43(46(]
+[DELETED: 48[51(52(53(557(58(59(64(62(63(66(72(75(77(81S]
+[DELETED: 870(73(74(777(780(81(82(85(87(88(89(91(92(93(94(997(99(]
+[DELETED: 11(14(117(18(19(10(13(14(15(17(19(11(114(16(18(11(]
+[DELETED: 14(17[18[10[12(19(15(18(10(11(13(118[11[115[]
+[DELETED: 17[19[11[12[13[117[18[19[10[13[14[15[16[19[11[14(119[21(]
+[DELETED: 22(25(27(28(221(23(24(26(27(29(20(21(226(29(23(]
+[DELETED: 28[21(23(25(229(22(23(25(26(229(28(21(]
+[DELETED: 23(28S223(25(27(221(23(32S27(229(20(22(]

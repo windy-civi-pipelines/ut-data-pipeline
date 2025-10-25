@@ -1,0 +1,39 @@
+Title: 36 with the private sector or other levels of government;
+Official Title: 36 with the private sector or other levels of government;
+Number of Sections: 2
+Source: versions - Amended Excerpts 10/6/2025 11:10:111
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+H.J.R. 101
+Amended Excerpts
+House Amendments October 06, 2025 11:06 AM
+
+Section 2:
+1. Line 36 through 39:
+37 (4) initiatives should inspire innovation in healthcare delivery Ĥ→ [ {, including healthcare }
+37a {data } ] ←Ĥ
+38 Ĥ→ [ {and electronic record sharing} ] ←Ĥ ;
+39 (5) initiatives should seek to improve the health outcomes of Utahns; and
+- 1 - House Floor Amendments
+[DELETED: sO6w    9 ]
+
+
+================================================================================
+
+Raw Text:
+H.J.R. 101
+Amended Excerpts
+House Amendments October 06, 2025 11:06 AM
+1. Line 36 through 39:
+36 with the private sector or other levels of government;
+37 (4) initiatives should inspire innovation in healthcare delivery Ĥ→ [ {, including healthcare }
+37a {data } ] ←Ĥ
+38 Ĥ→ [ {and electronic record sharing} ] ←Ĥ ;
+39 (5) initiatives should seek to improve the health outcomes of Utahns; and
+- 1 - House Floor Amendments
+
+[DELETED: sO6w    9 ]
